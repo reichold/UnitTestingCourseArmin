@@ -1,4 +1,5 @@
 # Introduction to Unit Testing with Python and GitHub
+![Unit tests](https://github.com/reichold/UnitTestingCourseArmin/workflows/Unit%20tests/badge.svg)
 
 This repository accompanies the Oxford RSE online course delivered on 17 Feb 2021.
 
